@@ -1,0 +1,3 @@
+# normal (no trailing)
+*.sql        whitespace=trailing-space,space-before-tab,cr-at-eol
+*.txt        whitespace=trailing-space,space-before-tab,cr-at-eol
