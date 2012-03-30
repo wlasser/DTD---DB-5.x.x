@@ -1,0 +1,11 @@
+INSERT INTO `spell_override` VALUES (93402, 8921, 48517, 'Eclipse (Solar)');
+INSERT INTO `spell_override` VALUES (91711, 6229, 9173, 'Nether Ward Talent');
+INSERT INTO `spell_override` VALUES (92315, 11366, 0, 'Pyroblast !');
+INSERT INTO `spell_override` VALUES (82928, 19434, 0, 'Fire !');
+INSERT INTO `spell_override` VALUES (89420, 689, 0, 'Drain Life');
+INSERT INTO `spell_override` VALUES (81170, 6785, 0, 'Ravage');
+INSERT INTO `spell_override` VALUES (91183, 82731, 0, 'Frostfire orb');
+INSERT INTO `spell_override` VALUES (88625, 2050, 0, 'Chakra Sereinity');
+INSERT INTO `spell_override` VALUES (86213, 86121, 0, 'Soul Swap: Exhale');
+INSERT INTO `spell_override` VALUES (88684, 88625, 0, 'Chackra');
+INSERT INTO `spell_override` VALUES (88685, 88625, 0, 'Chackra');
